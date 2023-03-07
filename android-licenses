@@ -1,0 +1,23 @@
+
+┌─────────────────────────────────────────────────────────┐
+│ A new version of Flutter is available!                  │
+│                                                         │
+│ To update to the latest version, run "flutter upgrade". │
+└─────────────────────────────────────────────────────────┘
+Doctor summary (to see all details, run flutter doctor -v):
+[√] Flutter (Channel stable, 3.3.4, on Microsoft Windows [Version 10.0.19044.2604], locale en-US)
+[!] Android toolchain - develop for Android devices (Android SDK version 30.0.3)
+    X cmdline-tools component is missing
+      Run `path/to/sdkmanager --install "cmdline-tools;latest"`
+      See https://developer.android.com/studio/command-line for more details.
+    X Android license status unknown.
+      Run `flutter doctor --android-licenses` to accept the SDK licenses.
+      See https://flutter.dev/docs/get-started/install/windows#android-setup for more details.
+[√] Chrome - develop for the web
+[√] Visual Studio - develop for Windows (Visual Studio Enterprise 2019 16.3.10)
+[√] Android Studio (version 4.2)
+[√] IntelliJ IDEA Ultimate Edition (version 2019.3)
+[√] Connected device (4 available)
+[√] HTTP Host Availability
+
+! Doctor found issues in 1 category.
